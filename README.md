@@ -17,6 +17,8 @@ me({
 })
 ```
 
+Add `img-center` class to any attribute in HTML file.
+
 It only support whether if it is centered or no
 More and more will be added and with easy installations.
 
