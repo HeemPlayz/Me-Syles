@@ -12,4 +12,4 @@ styles.forEach(styling => {
 
 }
 
-module.exports.me-styles;
+module.exports.mestyles = mestyles
